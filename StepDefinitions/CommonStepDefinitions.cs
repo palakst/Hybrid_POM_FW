@@ -15,6 +15,7 @@ namespace HybridPOMFramework.StepDefinitions
 
         public CommonStepDefinitions(ApplicationHooks hooks)
         {
+            //changes
             appHooks = hooks;
 
         }
